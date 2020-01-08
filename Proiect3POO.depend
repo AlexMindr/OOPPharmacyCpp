@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578478041 source:e:\codeblocks\projects\proiect3poo\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
